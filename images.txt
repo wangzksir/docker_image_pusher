@@ -1,1 +1,6 @@
-registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+rockylinux:9
+ubuntu:22.04
+httpd:latest
+nginx:latest
+busybox:1.28
+busybox:latest
