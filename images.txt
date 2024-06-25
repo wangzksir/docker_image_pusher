@@ -1,1 +1,1 @@
-centos:9
+gcr.io/cadvisor/cadvisor:v0.49.1
